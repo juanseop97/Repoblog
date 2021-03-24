@@ -6,3 +6,7 @@ body{
 #container h1{
     color: blueviolet;
 }
+#cabecera{
+    color: crimson;
+    font-size: 20px;
+}
