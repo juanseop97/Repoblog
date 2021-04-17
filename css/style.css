@@ -38,11 +38,11 @@ body{
     border:0px;
 }
 .cabecera > div {
-    display: none;
+    /* display: none; */
     width: 60px;
     height: 60px;
 }
 .cabecera > h1{
-    padding-left: 10px;
+    /* padding-left: 10px; */
 }
 
